@@ -6,18 +6,6 @@ I’m an Electrical Engineer with hands-on experience in **R&D**, **power system
 Currently expanding my skills in **web development, automation, and AI-assisted tools**.
 
 ---
-
-## 🛠️ Tech Stack & Skills
-
-### 💻 Programming & Web
-- **JavaScript**
-- **Python**
-- **HTML5**
-- **CSS3**
-- **bootstrap**
-- **tailwind**
-- React (Basics)
-
 ### ⚡ Engineering & Tools
 - AutoCAD Electrical
 - Power Systems & Renewable Energy
